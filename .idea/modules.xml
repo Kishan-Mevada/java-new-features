@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-new-features.iml" filepath="$PROJECT_DIR$/java-new-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java24/java24.iml" filepath="$PROJECT_DIR$/java24/java24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java25/java25.iml" filepath="$PROJECT_DIR$/java25/java25.iml" />
+    </modules>
+  </component>
+</project>

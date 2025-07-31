@@ -16,7 +16,7 @@ _contributions, issues, and suggestions are welcome!_
 
 ## 📂 Table of Contents
 
-- [Java 25 (2025)](#java-25-2025)
+- [Java 25 (Release Data: September 16, 2025, LTS)](#java-25-september-16-2025-lts)
 - [Java 24 (2024)](#java-24-2024)
 - [Java 23 (2024)](#java-23-2024)
 - [Java 22 (2023)](#java-22-2023)
@@ -41,7 +41,7 @@ _contributions, issues, and suggestions are welcome!_
 ---
 ## Feature Index by Java Version
 
-## Java 25 (2025)
+## Java 25 (September 16, 2025, LTS)
 - **Compact Source Files & Instance Main Methods:** Allows simple Java programs without explicit classes.
 - **Module Import Declarations:** Import all packages from a module in a single statement.
 - **Flexible Constructor Bodies:** Run logic before superclass constructors for safer object creation.
